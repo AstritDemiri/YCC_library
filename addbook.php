@@ -55,7 +55,7 @@ if (isset($_POST['submit']))
     Quantity:<br>
     <input type="number" name="quantity">
     <br><br>
-    <input calss="btn btn-primary" type="submit" name="submit" value="Register book">
+    <input calss="btn btn-primary" type="submit" name="submit" value="Register the book">
   </form>
 </body>
 
